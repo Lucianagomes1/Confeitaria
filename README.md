@@ -1,6 +1,6 @@
 # Confeitaria CAKELU
 
-
+<img src="./assets/pagina.png" alt="">
 
 Este é um projeto de site de uma confeitaria fictícia chamado **CAKELU**, utilizando HTML e CSS
 
